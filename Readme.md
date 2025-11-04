@@ -21,3 +21,29 @@ The script uses a **backtracking algorithm** to find a valid combination that mi
 Install dependencies with:
 ```bash
 pip install openpyxl
+```
+
+## ▶️ Usage
+
+Run the script:
+```bash
+python family_secret_santa.py
+```
+
+After execution:
+
+The assignments are printed in the console.
+
+An Excel file Secret_Santa_Result.xlsx is generated in the same folder.
+
+## 📊 Example Output
+
+---- Who gives to whom ----
+Jonathan gives to child Noah and to adult Laura
+...
+Results exported to Secret_Santa_Result.xlsx
+
+## 📁 Output Files
+| File | Description |
+|------|-------------|
+| Secret_Santa_Result.xlsx | Contains the final gift exchange list |
