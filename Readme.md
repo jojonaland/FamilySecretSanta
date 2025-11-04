@@ -38,10 +38,18 @@ An Excel file Secret_Santa_Result.xlsx is generated in the same folder.
 
 ## 📊 Example Output
 
+```bash
 ---- Who gives to whom ----
 Jonathan gives to child Noah and to adult Laura
+Lea gives to child Arie and to adult Dov
+...
+
+---- Who receives from whom ----
+Noah receives from Jonathan
+Laura receives from Jonathan
 ...
 Results exported to Secret_Santa_Result.xlsx
+```
 
 ## 📁 Output Files
 | File | Description |
